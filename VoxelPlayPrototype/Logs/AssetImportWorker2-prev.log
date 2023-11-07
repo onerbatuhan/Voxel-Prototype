@@ -1,0 +1,383 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.15f1 (e8e88683f834) revision 15263878'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'tr' Physical Memory: 16163 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/onerb/Desktop/voxel-art/VoxelPlayPrototype
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+49905
+Successfully changed project path to: C:/Users/onerb/Desktop/voxel-art/VoxelPlayPrototype
+C:/Users/onerb/Desktop/voxel-art/VoxelPlayPrototype
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10292] Host "[IP] 192.168.0.24 [Port] 0 [Flags] 2 [Guid] 2482164147 [EditorId] 2482164147 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4IJC5QP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [10292] Host "[IP] 192.168.0.24 [Port] 0 [Flags] 2 [Guid] 2482164147 [EditorId] 2482164147 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4IJC5QP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 96.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.15f1 (e8e88683f834)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/onerb/Desktop/voxel-art/VoxelPlayPrototype/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6009 MB
+    Driver:   31.0.15.3168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004530 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 87.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.587 seconds
+Domain Reload Profiling:
+	ReloadAssembly (587ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (428ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (91ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (268ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (52ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (88ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (87ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003956 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onerb\Desktop\voxel-art\VoxelPlayPrototype\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\onerb\Desktop\voxel-art\VoxelPlayPrototype\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.057 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1058ms)
+		BeginReloadAssembly (199ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (123ms)
+		EndReloadAssembly (762ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (343ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3628 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (114.7 KB). Loaded Objects now: 4091.
+Memory consumption went from 137.6 MB to 137.5 MB.
+Total: 3.420600 ms (FindLiveObjects: 0.279900 ms CreateObjectMapping: 0.115400 ms MarkObjects: 2.883400 ms  DeleteObjects: 0.141000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1667971.333622 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/SavedGames/sampleWorld.bytes
+  artifactKey: Guid(ae384f2d91bd54a37aa4f22b028cb388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/SavedGames/sampleWorld.bytes using Guid(ae384f2d91bd54a37aa4f22b028cb388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '417f9e184c4283233591065197354517') in 0.030734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.925878 seconds.
+  path: Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveCommon.cs
+  artifactKey: Guid(3f397ea182c8c44329b4d561071a54a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveCommon.cs using Guid(3f397ea182c8c44329b4d561071a54a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d39bd9a3a55bc019dbb89c3fedcd71') in 0.008848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.915677 seconds.
+  path: Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveFormat1.0.cs
+  artifactKey: Guid(e6925af0304e44bb0b56e5d9696bb323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveFormat1.0.cs using Guid(e6925af0304e44bb0b56e5d9696bb323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d5ec74e55772513d6c94255078c4b7') in 0.007029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.891636 seconds.
+  path: Assets/Voxel Play/Resources/VoxelPlay/Prefabs/DamagedVoxel.prefab
+  artifactKey: Guid(9e45a2bbcb3e84157b6bbfbbd006d5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/VoxelPlay/Prefabs/DamagedVoxel.prefab using Guid(9e45a2bbcb3e84157b6bbfbbd006d5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2345a591eb3f2b8ae692ec253a55a50f') in 0.085565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.140252 seconds.
+  path: Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat10.cs
+  artifactKey: Guid(4d2f440a44d2543bca904a5b11fc7c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat10.cs using Guid(4d2f440a44d2543bca904a5b11fc7c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c3309bbd793de8d13aed74dde269a5') in 0.006600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.336054 seconds.
+  path: Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat11.cs
+  artifactKey: Guid(a0d1241e86d9d4c59bb176f92ac29096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat11.cs using Guid(a0d1241e86d9d4c59bb176f92ac29096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07d5c21ad7bd8d75150b36e6bba1b4a') in 0.006858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.464545 seconds.
+  path: Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat12.cs
+  artifactKey: Guid(78cfc94d164734f029870a20091abfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat12.cs using Guid(78cfc94d164734f029870a20091abfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e91369ff3ba73081d1f69d7640dfbe') in 0.006278 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003719 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onerb\Desktop\voxel-art\VoxelPlayPrototype\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\onerb\Desktop\voxel-art\VoxelPlayPrototype\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.902 seconds
+Domain Reload Profiling:
+	ReloadAssembly (903ms)
+		BeginReloadAssembly (137ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (687ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (243ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (302ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (184ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3559 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (83.0 KB). Loaded Objects now: 4103.
+Memory consumption went from 135.3 MB to 135.2 MB.
+Total: 2.787800 ms (FindLiveObjects: 0.346000 ms CreateObjectMapping: 0.181400 ms MarkObjects: 2.158300 ms  DeleteObjects: 0.100900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 42.131306 seconds.
+  path: Assets/Voxel Play/Documentation/User Manual.txt
+  artifactKey: Guid(33d4dae29149f43c4ab2e40850360932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Documentation/User Manual.txt using Guid(33d4dae29149f43c4ab2e40850360932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90a77c9e4ec4d133334a589a641e43a') in 0.027689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.149120 seconds.
+  path: Assets/Voxel Play/Editor/Tools
+  artifactKey: Guid(0c9884a1574b64aaab2dd07c892107bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools using Guid(0c9884a1574b64aaab2dd07c892107bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d896e6bc716af838a3c83dcb5132b9e') in 0.007203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.121273 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayBiomeExplorer.cs
+  artifactKey: Guid(71e7b6e9d6a844721a6778af723bdeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayBiomeExplorer.cs using Guid(71e7b6e9d6a844721a6778af723bdeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff312b5eefb86492565c9d00034eb34a') in 0.006066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.783193 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayConstructorTools.cs
+  artifactKey: Guid(cdb3de937b1604c049ef97fc789ec9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayConstructorTools.cs using Guid(cdb3de937b1604c049ef97fc789ec9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7291cf5b9ff9e2d4b76878c8a27f04') in 0.006066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.696903 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayCubeTools.cs
+  artifactKey: Guid(f414974461d37487c954ca8d10300250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayCubeTools.cs using Guid(f414974461d37487c954ca8d10300250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85225c739132cb05547c52d536e095f9') in 0.006091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.737982 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayEditorCommons.cs
+  artifactKey: Guid(295622e585f394474bcf9eea91b4939d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayEditorCommons.cs using Guid(295622e585f394474bcf9eea91b4939d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40eed6947edea1a5f26b4598d044e91f') in 0.006299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.254522 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayImportTools.cs
+  artifactKey: Guid(ac605667a9b7a4751bd7c1c46117108d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayImportTools.cs using Guid(ac605667a9b7a4751bd7c1c46117108d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23158881aa9253a655016cf0876ae8e3') in 0.006273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.663427 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayNoiseGenerator.cs
+  artifactKey: Guid(114014317b6d14e20808a4e940d5ff56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayNoiseGenerator.cs using Guid(114014317b6d14e20808a4e940d5ff56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4f866900374029af1c58f7c0b4d089') in 0.006278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.639843 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayTextureVoxelizer.cs
+  artifactKey: Guid(79acecd1f3d1940128ef3b8530a87a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayTextureVoxelizer.cs using Guid(79acecd1f3d1940128ef3b8530a87a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '582a95290690b57a3bb7e41832868359') in 0.007073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.625984 seconds.
+  path: Assets/Voxel Play/Editor/Tools/VoxelPlayReplaceModelDefinitionTool.cs
+  artifactKey: Guid(693cd78db34a44551adb1369a12c2fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Editor/Tools/VoxelPlayReplaceModelDefinitionTool.cs using Guid(693cd78db34a44551adb1369a12c2fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532c67bfaa8e668335f88bb760a1c987') in 0.006755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.620452 seconds.
+  path: Assets/Voxel Play/Resources/Worlds
+  artifactKey: Guid(212da11d0ac7440f886efd1deec5313d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds using Guid(212da11d0ac7440f886efd1deec5313d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9580f5fdfbcf59c8998b9572b52e177') in 0.006966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.309366 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Bare.asset
+  artifactKey: Guid(05d8a81088f8143dab9ec3895664af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Bare.asset using Guid(05d8a81088f8143dab9ec3895664af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9459c2f5ca9c09f1cde9a7defb83065b') in 0.031816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Snow.asset
+  artifactKey: Guid(ac129697253ab427eb442f0b4fd27abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Snow.asset using Guid(ac129697253ab427eb442f0b4fd27abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f9f092cce25b80f03cb211d68e57d74') in 0.011864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Tundra.asset
+  artifactKey: Guid(6529c4ade1ef7407cb0745350aeb3c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Tundra.asset using Guid(6529c4ade1ef7407cb0745350aeb3c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61c7245ae60b2164f9ceac7b5de0be8') in 0.010725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Shrubland.asset
+  artifactKey: Guid(63ce008e73a7c4c84920625729e69484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Shrubland.asset using Guid(63ce008e73a7c4c84920625729e69484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b4d487d7432d8714c94ddf89c4cd9b') in 0.011274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Rainforest.asset
+  artifactKey: Guid(6fa76bb64ddf74f36a01e64d68ed4b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/Biomes/Rainforest.asset using Guid(6fa76bb64ddf74f36a01e64d68ed4b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d78bf433bbca31d3c8a9a3c41197d0') in 0.011110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.300482 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/Earth.asset
+  artifactKey: Guid(9c8445380140245d0b4806a2ee8972b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/Earth.asset using Guid(9c8445380140245d0b4806a2ee8972b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99bd67cf8121d24999632d8a239aa36') in 0.108370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Voxel Play/Resources/Worlds/Earth/EarthValleys.asset
+  artifactKey: Guid(5341b0a1785de479b82d945a4a5a4b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voxel Play/Resources/Worlds/Earth/EarthValleys.asset using Guid(5341b0a1785de479b82d945a4a5a4b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42b323c77c55335d0fb56ae5170a2bb') in 0.062963 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
